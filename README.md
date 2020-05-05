@@ -5,7 +5,7 @@ A few script I made for Reaper, in LUA or Python.
 
 Add a marker with the name of musical time on selected file. The tempo map has to be defined before running the script. 
 
-![](name-of-giphy.gif)
+![](ddmarkers.gif)
 
 ## RS_CopyItemsWithMarkers.lua
 
